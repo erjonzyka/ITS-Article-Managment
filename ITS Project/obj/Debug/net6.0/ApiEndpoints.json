@@ -1,0 +1,12 @@
+[
+  {
+    "ContainingType": "ITS_Project.Controllers.ScrappingController",
+    "Method": "GetEuroToLekExchangeRate",
+    "RelativePath": "api/Scrapping/exchange-rate",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

@@ -1,0 +1,38 @@
+﻿@using ITS_Library.Models
+@model ICollection<Article>
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+
+<div class="d-flex justify-content-around">
+    <a asp-action="Index" asp-controller="Article" class="btn btn-outline-primary" id="euroButton" onclick="resetSession()">Euro</a>
+    <button onclick="getValueToMultiply()" class="btn btn-outline-primary" id="multiplyButton">Lek</button>
+</div>
+
+<table class="table table-hover">
+    <thead>
+        <tr>
+            <th scope="col">#</th>
+            <th scope="col">Name</th>
+            <th scope="col">Price</th>
+            <th scope="col">Quantity</th>
+            <th scope="col">Description</th>
+            <th scope="col">Creator</th>
+            <th scope="col">Action</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach(var item in Model){
+        <tr>
+            <th scope="row">@item.ArticleId</th>
+                <td>@item.Name</td>
+                <td class="td-price">EUR @item.Price</td>
+                <td>@item.Quantity</td>
+                <td>@item.Description</td>
+                <td>@item.Creator.FirstName @item.Creator.LastName</td>
+                <td><a asp-action="AddToCart" asp-controller="Cart" asp-route-articleId="@item.ArticleId" class="btn btn-primary">Add To Cart</a></td>
+                <td><span asp-validation-for="@item.Quantity" class="text-danger"></span></td>
+        </tr>
+        }
+    </tbody>
+</table>
+
+<a asp-action="CreateArticle" asp-controller="Article" class="btn btn-success">Krijo Artikull</a>

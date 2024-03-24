@@ -1,0 +1,34 @@
+﻿@using ITS_Library.Models
+@model ICollection<Cart>
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+
+<h3 class="text-center">My Cart</h3>
+<table class="table table-hover text-center">
+    <thead>
+        <tr>
+            <th scope="col">#</th>
+            <th scope="col">Product Name</th>
+            <th scope="col">Quantity</th>
+            <th scope="col">Total</th>
+            <th scope="col"></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <th scope="row">@item.ArticleId</th>
+                <td>@item.Article.Name</td>
+                <form method="post" id="updateQuantityForm" asp-action="UpdateQuantity" asp-controller="Cart" asp-route-id="@item.ArticleId">
+                <td><input class="form-control text-center" name="quantity" value="@item.Quantity" max="@item.Article.Quantity" min="1" onchange="submitForm()"></input></td>
+                </form>
+                <td class="td-price">EUR @item.Total</td>
+                <td></td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<a asp-action="CompletePurchase" asp-controller="Order" class="btn btn-outline-success">Complete Purchase</a>
+
+<script src="~/js/site.js"></script>

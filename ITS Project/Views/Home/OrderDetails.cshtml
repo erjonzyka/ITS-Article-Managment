@@ -1,0 +1,33 @@
+﻿@using ITS_Library.Models
+@model Order
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+
+@{
+    int grandTotal = 0;
+}
+
+<h1 class="text-center">Order: #@Model.OrderId</h1>
+
+<table class="table table-hover">
+    <thead>
+        <tr>
+            <th scope="col">Name</th>
+            <th scope="col">Quantity</th>
+            <th scope="col">Total</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model.OrderDetails)
+        {
+            grandTotal += item.Total;
+            <tr>
+                <td>@item.article.Name</td>
+            <td>x @item.Quantity</td>
+                <td class="td-price">EUR @item.Total</td>
+        </tr>
+        }
+    </tbody>
+</table>
+
+<h3>Grand Total: <span class="td-price">EUR @grandTotal</span></h3>
+

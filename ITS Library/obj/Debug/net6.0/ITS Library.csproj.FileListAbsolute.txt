@@ -1,0 +1,43 @@
+C:\Users\zykae\OneDrive\Desktop\WebAPI - .NET\httpreq\ITSolution\ITS Library\bin\Debug\net6.0\ITS Library.deps.json
+C:\Users\zykae\OneDrive\Desktop\WebAPI - .NET\httpreq\ITSolution\ITS Library\bin\Debug\net6.0\ITS Library.runtimeconfig.json
+C:\Users\zykae\OneDrive\Desktop\WebAPI - .NET\httpreq\ITSolution\ITS Library\bin\Debug\net6.0\ITS Library.dll
+C:\Users\zykae\OneDrive\Desktop\WebAPI - .NET\httpreq\ITSolution\ITS Library\bin\Debug\net6.0\ITS Library.pdb
+C:\Users\zykae\OneDrive\Desktop\WebAPI - .NET\httpreq\ITSolution\ITS Library\obj\Debug\net6.0\ITS Library.csproj.AssemblyReference.cache
+C:\Users\zykae\OneDrive\Desktop\WebAPI - .NET\httpreq\ITSolution\ITS Library\obj\Debug\net6.0\ITS Library.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zykae\OneDrive\Desktop\WebAPI - .NET\httpreq\ITSolution\ITS Library\obj\Debug\net6.0\ITS Library.AssemblyInfoInputs.cache
+C:\Users\zykae\OneDrive\Desktop\WebAPI - .NET\httpreq\ITSolution\ITS Library\obj\Debug\net6.0\ITS Library.AssemblyInfo.cs
+C:\Users\zykae\OneDrive\Desktop\WebAPI - .NET\httpreq\ITSolution\ITS Library\obj\Debug\net6.0\ITS Library.csproj.CoreCompileInputs.cache
+C:\Users\zykae\OneDrive\Desktop\WebAPI - .NET\httpreq\ITSolution\ITS Library\obj\Debug\net6.0\ITS Library.dll
+C:\Users\zykae\OneDrive\Desktop\WebAPI - .NET\httpreq\ITSolution\ITS Library\obj\Debug\net6.0\refint\ITS Library.dll
+C:\Users\zykae\OneDrive\Desktop\WebAPI - .NET\httpreq\ITSolution\ITS Library\obj\Debug\net6.0\ITS Library.pdb
+C:\Users\zykae\OneDrive\Desktop\WebAPI - .NET\httpreq\ITSolution\ITS Library\obj\Debug\net6.0\ITS Library.genruntimeconfig.cache
+C:\Users\zykae\OneDrive\Desktop\WebAPI - .NET\httpreq\ITSolution\ITS Library\obj\Debug\net6.0\ref\ITS Library.dll
+C:\Users\zykae\OneDrive\Desktop\WebAPI - .NET\httpreq\ITS-Assignment-main\ITS Library\bin\Debug\net6.0\ITS Library.deps.json
+C:\Users\zykae\OneDrive\Desktop\WebAPI - .NET\httpreq\ITS-Assignment-main\ITS Library\bin\Debug\net6.0\ITS Library.runtimeconfig.json
+C:\Users\zykae\OneDrive\Desktop\WebAPI - .NET\httpreq\ITS-Assignment-main\ITS Library\bin\Debug\net6.0\ITS Library.dll
+C:\Users\zykae\OneDrive\Desktop\WebAPI - .NET\httpreq\ITS-Assignment-main\ITS Library\bin\Debug\net6.0\ITS Library.pdb
+C:\Users\zykae\OneDrive\Desktop\WebAPI - .NET\httpreq\ITS-Assignment-main\ITS Library\obj\Debug\net6.0\ITS Library.csproj.AssemblyReference.cache
+C:\Users\zykae\OneDrive\Desktop\WebAPI - .NET\httpreq\ITS-Assignment-main\ITS Library\obj\Debug\net6.0\ITS Library.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zykae\OneDrive\Desktop\WebAPI - .NET\httpreq\ITS-Assignment-main\ITS Library\obj\Debug\net6.0\ITS Library.AssemblyInfoInputs.cache
+C:\Users\zykae\OneDrive\Desktop\WebAPI - .NET\httpreq\ITS-Assignment-main\ITS Library\obj\Debug\net6.0\ITS Library.AssemblyInfo.cs
+C:\Users\zykae\OneDrive\Desktop\WebAPI - .NET\httpreq\ITS-Assignment-main\ITS Library\obj\Debug\net6.0\ITS Library.csproj.CoreCompileInputs.cache
+C:\Users\zykae\OneDrive\Desktop\WebAPI - .NET\httpreq\ITS-Assignment-main\ITS Library\obj\Debug\net6.0\ITS Library.sourcelink.json
+C:\Users\zykae\OneDrive\Desktop\WebAPI - .NET\httpreq\ITS-Assignment-main\ITS Library\obj\Debug\net6.0\ITS Library.dll
+C:\Users\zykae\OneDrive\Desktop\WebAPI - .NET\httpreq\ITS-Assignment-main\ITS Library\obj\Debug\net6.0\refint\ITS Library.dll
+C:\Users\zykae\OneDrive\Desktop\WebAPI - .NET\httpreq\ITS-Assignment-main\ITS Library\obj\Debug\net6.0\ITS Library.pdb
+C:\Users\zykae\OneDrive\Desktop\WebAPI - .NET\httpreq\ITS-Assignment-main\ITS Library\obj\Debug\net6.0\ITS Library.genruntimeconfig.cache
+C:\Users\zykae\OneDrive\Desktop\WebAPI - .NET\httpreq\ITS-Assignment-main\ITS Library\obj\Debug\net6.0\ref\ITS Library.dll
+C:\Users\zykae\OneDrive\Desktop\assignment\ITS-Assignment--main\ITS Library\bin\Debug\net6.0\ITS Library.deps.json
+C:\Users\zykae\OneDrive\Desktop\assignment\ITS-Assignment--main\ITS Library\bin\Debug\net6.0\ITS Library.runtimeconfig.json
+C:\Users\zykae\OneDrive\Desktop\assignment\ITS-Assignment--main\ITS Library\bin\Debug\net6.0\ITS Library.dll
+C:\Users\zykae\OneDrive\Desktop\assignment\ITS-Assignment--main\ITS Library\bin\Debug\net6.0\ITS Library.pdb
+C:\Users\zykae\OneDrive\Desktop\assignment\ITS-Assignment--main\ITS Library\obj\Debug\net6.0\ITS Library.csproj.AssemblyReference.cache
+C:\Users\zykae\OneDrive\Desktop\assignment\ITS-Assignment--main\ITS Library\obj\Debug\net6.0\ITS Library.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zykae\OneDrive\Desktop\assignment\ITS-Assignment--main\ITS Library\obj\Debug\net6.0\ITS Library.AssemblyInfoInputs.cache
+C:\Users\zykae\OneDrive\Desktop\assignment\ITS-Assignment--main\ITS Library\obj\Debug\net6.0\ITS Library.AssemblyInfo.cs
+C:\Users\zykae\OneDrive\Desktop\assignment\ITS-Assignment--main\ITS Library\obj\Debug\net6.0\ITS Library.csproj.CoreCompileInputs.cache
+C:\Users\zykae\OneDrive\Desktop\assignment\ITS-Assignment--main\ITS Library\obj\Debug\net6.0\ITS Library.dll
+C:\Users\zykae\OneDrive\Desktop\assignment\ITS-Assignment--main\ITS Library\obj\Debug\net6.0\refint\ITS Library.dll
+C:\Users\zykae\OneDrive\Desktop\assignment\ITS-Assignment--main\ITS Library\obj\Debug\net6.0\ITS Library.pdb
+C:\Users\zykae\OneDrive\Desktop\assignment\ITS-Assignment--main\ITS Library\obj\Debug\net6.0\ITS Library.genruntimeconfig.cache
+C:\Users\zykae\OneDrive\Desktop\assignment\ITS-Assignment--main\ITS Library\obj\Debug\net6.0\ref\ITS Library.dll

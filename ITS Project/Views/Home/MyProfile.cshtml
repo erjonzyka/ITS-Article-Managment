@@ -1,0 +1,56 @@
+﻿@using ITS_Library.Models
+@model ProductViewModel
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+
+    <h1 class="text-center">My Profile</h1>
+
+    <div class="d-flex justify-content-around">
+
+    <div class="col-6">
+        <h3 class="text-center">My Products</h3>
+    <table class="table table-hover">
+        <thead>
+            <tr>
+                <th scope="col">#</th>
+                <th scope="col">Name</th>
+                <th scope="col">Price</th>
+                <th scope="col">Quantity</th>
+                <th scope="col">Description</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model.Articles)
+            {
+                <tr>
+                    <th scope="row">@item.ArticleId</th>
+                    <td>@item.Name</td>
+                        <td class="td-price">EUR @item.Price</td>
+                    <td>@item.Quantity</td>
+                    <td>@item.Description</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+    </div>
+
+    <div class="col-5">
+        <h3 class="text-center">My Orders</h3>
+        <table class="table table-hover">
+            <thead>
+                <tr>
+                    <th scope="col"></th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in Model.Orders)
+                {
+                    <tr>
+                        <th scope="row"><a class="text-decoration-none font-weight-bold text-dark" asp-action="OrderDetails" asp-controller="Home" asp-route-id="@item.OrderId">Order #@item.OrderId </a></th>
+                    </tr>
+                    
+                }
+            </tbody>
+        </table>
+    </div>
+
+</div>
